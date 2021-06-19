@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "fstoree2041700": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s325f9b87f": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

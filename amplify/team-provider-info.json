@@ -1,0 +1,20 @@
+{
+  "envfstore": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fstore-envfstore-181139-authRole",
+      "UnauthRoleArn": "arn:aws:iam::859297312505:role/amplify-fstore-envfstore-181139-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::859297312505:role/amplify-fstore-envfstore-181139-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-fstore-envfstore-181139-deployment",
+      "UnauthRoleName": "amplify-fstore-envfstore-181139-unauthRole",
+      "StackName": "amplify-fstore-envfstore-181139",
+      "StackId": "arn:aws:cloudformation:us-east-2:859297312505:stack/amplify-fstore-envfstore-181139/75d01090-8d67-11eb-b507-0265b0cf9604",
+      "AmplifyAppId": "d30yg25bnswam3"
+    },
+    "categories": {
+      "auth": {
+        "fstoree2041700": {}
+      }
+    }
+  }
+}
